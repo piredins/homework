@@ -24,7 +24,7 @@ def dictionary_making():
     return cook_book
 
 dictionary_making()
-  #print(cook_book)
+#print(cook_book)
 
 def get_shop_list_by_dishes(dishes, person_count):
   cook_book = dictionary_making()
